@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/SafaGulAISoftwareEngineer/DSA/tree/master/0152-maximum-product-subarray) |
 | [0457-circular-array-loop](https://github.com/SafaGulAISoftwareEngineer/DSA/tree/master/0457-circular-array-loop) |
 | [0560-subarray-sum-equals-k](https://github.com/SafaGulAISoftwareEngineer/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/SafaGulAISoftwareEngineer/DSA/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SafaGulAISoftwareEngineer/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/SafaGulAISoftwareEngineer/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/SafaGulAISoftwareEngineer/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -47,4 +48,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/SafaGulAISoftwareEngineer/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/SafaGulAISoftwareEngineer/DSA/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
