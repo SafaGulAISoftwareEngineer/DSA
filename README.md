@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/SafaGulAISoftwareEngineer/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SafaGulAISoftwareEngineer/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/SafaGulAISoftwareEngineer/DSA/tree/master/0724-find-pivot-index) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SafaGulAISoftwareEngineer/DSA/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SafaGulAISoftwareEngineer/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SafaGulAISoftwareEngineer/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/SafaGulAISoftwareEngineer/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -43,10 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SafaGulAISoftwareEngineer/DSA/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SafaGulAISoftwareEngineer/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SafaGulAISoftwareEngineer/DSA/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SafaGulAISoftwareEngineer/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Prefix Sum
 |  |
@@ -54,5 +57,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/SafaGulAISoftwareEngineer/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SafaGulAISoftwareEngineer/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/SafaGulAISoftwareEngineer/DSA/tree/master/0724-find-pivot-index) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SafaGulAISoftwareEngineer/DSA/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SafaGulAISoftwareEngineer/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+## Binary Search
+|  |
+| ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SafaGulAISoftwareEngineer/DSA/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## Sliding Window
+|  |
+| ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SafaGulAISoftwareEngineer/DSA/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SafaGulAISoftwareEngineer/DSA/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
