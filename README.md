@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SafaGulAISoftwareEngineer/DSA/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/SafaGulAISoftwareEngineer/DSA/tree/master/0056-merge-intervals) |
 | [0152-maximum-product-subarray](https://github.com/SafaGulAISoftwareEngineer/DSA/tree/master/0152-maximum-product-subarray) |
 | [0457-circular-array-loop](https://github.com/SafaGulAISoftwareEngineer/DSA/tree/master/0457-circular-array-loop) |
 | [0525-contiguous-array](https://github.com/SafaGulAISoftwareEngineer/DSA/tree/master/0525-contiguous-array) |
@@ -71,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/SafaGulAISoftwareEngineer/DSA/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/SafaGulAISoftwareEngineer/DSA/tree/master/0056-merge-intervals) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/SafaGulAISoftwareEngineer/DSA/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
